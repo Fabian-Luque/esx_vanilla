@@ -1,5 +1,11 @@
 # esx_strippers
-Spawns a bunch of strippers in the Vanilla Unicorn on server start for maximum RPness.
+- This script is the edition of script ESX_STRIPPERS of: https://github.com/ThePyromaniac/esx_strippers
+- And Exterior of : https://es.gta5-mods.com/maps/vanilla-unicorn-exterior-modded-fivem-sp-menyoo-ymap-xml
+
+| Features |
+| :---: |
+| Anti-Stress integration |
+| Exterior Modded |
 
 ### Preview:
 
